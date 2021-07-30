@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to my GitHub profile!
 
-<!--
-**matteobaldassarre/matteobaldassarre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+My name's Matteo and I'm a Junior Full Stack Web Developer👨🏻‍💻 <br>
+I learned Web Development thanks to Boolean Careers.
 
-Here are some ideas to get you started:
+### What I Know
+- HTML5, CSS3, SASS, Bootstrap 3/4
+- JavaScript, JQuery, VueJS, Git
+- PHP, MySQL, Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact Me
+Email -> matteobaldassarre.dev@gmail.com <br>
+LinkedIn -> https://www.linkedin.com/in/matteo-baldassarre-6a4778215/
+
+
+
