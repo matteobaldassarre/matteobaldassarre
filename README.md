@@ -2,13 +2,21 @@
 
 ### About Me
 My name's Matteo and I'm a Junior Full Stack Web Developer👨🏻‍💻 <br>
-I learned Web Development thanks to Boolean Careers.
 
 ### What I Know
+My current stack at the moment includes:
+#### Frontend
 - HTML5, CSS3, SASS, Bootstrap 3/4
-- JavaScript, JQuery, VueJS, Git
+- JavaScript, JQuery, Vue.js, React.js
+
+#### Backend
 - Node.js, ExpressJs, EJS, MongoDB
 - PHP, MySQL, Laravel
+
+#### Tools
+- Git, GitHub
+- Adobe Photoshop, Adobe XD
+
 
 ### Contact Me
 Email -> matteobaldassarre.dev@gmail.com <br>
