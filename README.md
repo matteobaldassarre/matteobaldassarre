@@ -10,7 +10,7 @@ My current stack at the moment includes:
 - JavaScript, JQuery, Vue.js, React.js
 
 #### Backend
-- Node.js, ExpressJs, EJS, MongoDB
+- Node.js, ExpressJs, MongoDB
 - PHP, MySQL, Laravel
 - C#, ASP.NET Framework
 
