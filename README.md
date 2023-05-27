@@ -12,7 +12,7 @@ My current stack at the moment includes:
 #### Backend
 - Node.js, ExpressJs, MongoDB
 - PHP, MySQL, Laravel
-- C#, ASP.NET Framework
+- C#, .NET
 
 #### Tools
 - Git, GitHub
