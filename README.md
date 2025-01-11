@@ -1,27 +1,12 @@
-## Welcome to my GitHub profile!
+# 👋 Welcome to My GitHub Profile!
 
-### About Me
-My name's Matteo and I'm a Junior Full Stack Web Developer👨🏻‍💻 <br>
+## About Me  
+Hi, I'm Matteo, a software engineer passionate about continuous learning and tackling new challenges in the ever-evolving world of technology.
 
-### What I Know
-My current stack at the moment includes:
-#### Frontend
-- HTML5, CSS3, SASS, Bootstrap 3/4
-- JavaScript, JQuery, Vue.js, React.js
+## What I Do  
+I enjoy creating dynamic web applications, designing intuitive user interfaces, and building scalable backend systems. <br>
+My focus is always on writing clean, maintainable code to ultimately bring ideas to life.
 
-#### Backend
-- Node.js, ExpressJs, MongoDB
-- PHP, MySQL, Laravel
-- C#, .NET
-
-#### Tools
-- Git, GitHub
-- Adobe Photoshop, Adobe XD
-
-
-### Contact Me
-Email -> matteobaldassarre.dev@gmail.com <br>
-LinkedIn -> https://www.linkedin.com/in/matteo-baldassarre-6a4778215/
-
-
-
+## Let's Connect  
+📧 **Email**: [matteobaldassarre.dev@gmail.com](mailto:matteobaldassarre.dev@gmail.com) <br>
+🔗 **LinkedIn**: https://www.linkedin.com/in/matteo-baldassarre
